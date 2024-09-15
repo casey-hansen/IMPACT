@@ -1,0 +1,150 @@
+﻿ID.Number,Location,Intake.Date,Intake.Location,County,Habitat,Sex,Age,Coat.Length,Coat.Color,Number.in.Loc,Tick.Results,Flea.Results,Ringworm.Results,Mites.Results,Fecal.Results,Non-Enteric Conditions,Ailment
+1,A,26-Jan,Grafton,Taylor,Hoarding,F,adult,DSH,orange/white,1,negative,positive,not tested,negative,inconclusive,Ectoparasite,yes
+2,B,26-Jan,Grafton,Taylor,Hoarding,F,adult,DSH,calico,1,negative,negative,not tested,negative,inconclusive,Negative,no
+3,C,26-Jan,Grafton,Taylor,Hoarding,F,adult,DSH,grey/white,1,negative,positive,not tested,negative,N/A,Ectoparasite,yes
+4,D,26-Jan,Grafton,Taylor,Hoarding,M,senior,DSH,grey tabby,1,negative,positive,not tested,negative,Protozoa,Ectoparasite,yes
+5,E,26-Jan,Grafton,Taylor,Hoarding,M,adult,DSH,orange/white,1,negative,negative,not tested,negative,Protozoa,Negative,yes
+6,F,26-Jan,Grafton,Taylor,Hoarding,F,adult,DSH,grey/white,1,negative,negative,not tested,negative,N/A,Negative,no
+7,G,26-Jan,Grafton,Taylor,Hoarding,F,adult,DSH,tortioseshell,1,negative,negative,not tested,negative,Protozoa,Wound,yes
+8,I,26-Jan,Grafton,Taylor,Hoarding,F,adult,DSH,torbie,1,negative,negative,not tested,negative,inconclusive,Infection,yes
+9,J,26-Jan,Grafton,Taylor,Hoarding,M,adult,DSH,orange,1,negative,negative,not tested,negative,Protozoa,Negative,yes
+10,K,26-Jan,Grafton,Taylor,Hoarding,F,adult,DSH,black/white,1,negative,negative,negative,negative,inconclusive,Infection,yes
+11,L,26-Jan,Grafton,Taylor,Hoarding,F,young adult,DSH,black/white,1,negative,negative,not tested,negative,negative,Negative,no
+12,N,26-Jan,Grafton,Taylor,Hoarding,F,adult,DSH,grey tabby,1,negative,positive,not tested,negative,negative,Ectoparasite,yes
+13,Kitchen - Purple,31-Jan,Nestorville,Barbour,Outdoor,F,7 months,DSH,dilute calico,2,negative,positive,not tested,negative,negative,Ectoparasite,yes
+14,Kitchen - Purple,31-Jan,Nestorville,Barbour,Outdoor,F,7 months,DSH,siamese mix,2,negative,positive,not tested,negative,negative,Ectoparasite,yes
+15,Kitchen - Black,2-Feb,Belington,Barbour,Outdoor,M,adult,DSH,tabby/white,1,negative,positive,not tested,negative,"Cestoda, Nematoda",Ectoparasite,yes
+16,5,31-Jan,Wellington Heights,Barbour,Indoor,N/A,N/A,DMH,black/white,1,N/A,N/A,N/A,N/A,N/A,Negative,no
+17,Kitchen - Closet top,7-Feb,Belington,Barbour,Outdoor,F,6 months,DSH,orange,1,N/A,N/A,N/A,N/A,Nematoda,Negative,yes
+18,Kitchen - Purple,31-Jan,Nestorville,Barbour,Outdoor,M,7 months,DSH,black,3,negative,positive,not tested,negative,N/A,Ectoparasite,yes
+19,Kitchen - White,16-Feb,Phillipi,Barbour,Outdoor,F,adult,DLH,grey,1,negative,negative,not tested,not tested,Protozoa,Wound,yes
+20,Kitchen - Black,18-Feb,Grafton,Taylor,Indoor,M,adult,DSH,siamese,2,negative,negative,not tested,negative,negative,Negative,yes
+21,Kitchen - Black,18-Feb,Grafton,Taylor,Indoor/outdoor,M,adult,DSH,Black,2,negative,negative,not tested,negative,"Cestoda, Nematoda",Negative,yes
+22,A,18-Feb,N/A,Unknown,Indoor,M,5 months,DSH,orange,1,negative,negative,not tested,negative,N/A,Negative,yes
+23,B,18-Feb,N/A,Unknown,Indoor,F,5 months,DSH,orange,1,negative,negative,not tested,negative,N/A,Negative,no
+24,F,16-Feb,Phillipi,Barbour,Outdoor,F,adult,DSH,orange/white,1,negative,positive,not tested,not tested,Nematoda,Negative,yes
+25,K,18-Feb,Grafton,Taylor,Unknown,F,adult,DMH,calico,1,negative,negative,not tested,negative,N/A,Virus,yes
+26,L,18-Feb,Grafton,Taylor,Unknown,F,adult,DMH,dilute calico,1,negative,positive,not tested,not tested,Protozoa,Virus,yes
+27,N,16-Feb,Phillipi,Barbour,Indoor,M,young adult,DSH,tabby/white,3,negative,positive,not tested,negative,Nematoda,Ectoparasite,yes
+28,N,16-Feb,Phillipi,Barbour,Indoor,F,young adult,DSH,tabby/white,3,negative,positive,not tested,not tested,Nematoda,Ectoparasite,yes
+29,N,16-Feb,Phillipi,Barbour,Indoor,M,young adult,DMH,tabby/white,3,negative,N/A,not tested,not tested,Nematoda,Negative,yes
+30,Kitchen - Closet bottom,21-Feb,Buckhannon,Upshur,Outdoor,F,kitten,DSH,calico,1,negative,positive,not tested,negative,Nematoda,Ectoparasite,yes
+31,E,1-Mar,Phillipi,Barbour,Unknown,M,1 year,DSH,orange,2,negative,negative,not tested,not tested,Cestoda,Negative,yes
+32,E,1-Mar,Phillipi,Barbour,Unknown,F,1 year,DSH,torbie,2,negative,negative,not tested,not tested,N/A,Negative,no
+33,L,28-Feb,Grafton,Taylor,Indoor,F,adult,DSH,grey tabby,1,negative,negative,not tested,not tested,N/A,Negative,no
+34,7,1-Mar,Volga,Barbour,Unknown,M,8 months,DSH,orange/white,1,negative,positive,not tested,not tested,N/A,Ectoparasite,yes
+35,8,1-Mar,Volga,Barbour,Unknown,F,1.5 years,DSH,tortioseshell,1,negative,negative,not tested,not tested,N/A,Negative,no
+36,Kitchen - Purple Top,2-Mar,N/A,Unknown,Indoor,F,adult,DSH,cinnamon tabby,1,negative,positive,not tested,not tested,N/A,Ectoparasite,yes
+37,Kitchen - Black,1-Mar,Phillipi,Barbour,Hoarding,F,adult,DSH,orange/white,7,negative,positive,not tested,not tested,negative,Virus,yes
+38,Kitchen - Black,1-Mar,Phillipi,Barbour,Hoarding,F,2 months,DSH,tabico,7,negative,positive,not tested,not tested,negative,Ectoparasite,yes
+39,Kitchen - Black,1-Mar,Phillipi,Barbour,Hoarding,F,2 months,DSH,grey tabby,7,negative,positive,not tested,not tested,negative,Ectoparasite,yes
+40,Kitchen - Black,1-Mar,Phillipi,Barbour,Hoarding,F,1 month,DSH,orange,7,negative,positive,not tested,not tested,negative,Ectoparasite,yes
+41,Kitchen - Black,1-Mar,Phillipi,Barbour,Hoarding,M,1 month,DSH,orange/white,7,negative,positive,not tested,not tested,negative,Ectoparasite,yes
+42,Kitchen - Black,1-Mar,Phillipi,Barbour,Hoarding,F,1 month,DSH,orange/white,7,negative,positive,not tested,not tested,negative,Ectoparasite,yes
+43,Kitchen - Black,1-Mar,Phillipi,Barbour,Hoarding,M,1 month,DSH,white/orange,7,negative,positive,not tested,not tested,negative,Ectoparasite,yes
+44,A,1-Mar,Phillipi,Barbour,Hoarding,F,1 month,DSH,tortioseshell,1,negative,positive,not tested,not tested,Cestoda,Virus,yes
+45,Rm 2 - White,2-Mar,Phillipi,Barbour,Hoarding,M,adult,DSH,orange/white,3,negative,positive,not tested,not tested,Cestoda,Ectoparasite,yes
+46,Rm 2 - White,2-Mar,Phillipi,Barbour,Hoarding,F,adult,DSH,orange,3,negative,positive,not tested,not tested,"Cestoda, Nematoda",Ectoparasite,yes
+47,Rm 2 - White,2-Mar,Phillipi,Barbour,Hoarding,F,young adult,DSH,orange,3,negative,negative,not tested,not tested,"Cestoda, Nematoda",Wound,yes
+48,Rm 2 - Black,2-Mar,Phillipi,Barbour,Hoarding,F,young adult,DSH,orange,3,negative,negative,not tested,not tested,negative,Negative,no
+49,Rm 2 - Black,2-Mar,Phillipi,Barbour,Hoarding,F,adult,DSH,orange,3,negative,negative,not tested,positive,N/A,Ectoparasite,yes
+50,Rm 2 - Black,2-Mar,Phillipi,Barbour,Hoarding,M,adult,DSH,grey tabby,3,negative,negative,not tested,not tested,N/A,Negative,no
+51,2,2-Mar,Phillipi,Barbour,Hoarding,M,young adult,DSH,orange/white,2,negative,positive,not tested,not tested,negative,Ectoparasite,yes
+52,2,2-Mar,Phillipi,Barbour,Hoarding,F,adult,DSH,tabico,2,negative,positive,not tested,not tested,negative,Ectoparasite,yes
+53,1,2-Mar,N/A,Unknown,Outdoor,M,6 months,DSH,buff/white,2,negative,positive,not tested,not tested,N/A,Ectoparasite,yes
+54,1,2-Mar,N/A,Unknown,Outdoor,F,3 years,DSH,dilute calico,2,negative,positive,not tested,not tested,negative,Ectoparasite,yes
+55,Rm 1 - Wall,2-Mar,Belington,Barbour,Unknown,M,8 months,DSH,grey tabby,1,negative,positive,not tested,not tested,N/A,Ectoparasite,yes
+56,Rm 4,2-Mar,Mill Creek,Randolph,Outdoor,M,6 months,DSH,orange,1,negative,negative,not tested,not tested,negative,Negative,no
+57,Rm 4,2-Mar,Mill Creek,Randolph,Outdoor,M,7 months,DLH,grey/white,3,negative,negative,not tested,not tested,Cestoda,Negative,yes
+58,Rm 4,2-Mar,Mill Creek,Randolph,Outdoor,M,8 months,DLH,grey/white,3,negative,negative,not tested,not tested,Cestoda,Negative,yes
+59,Rm 4,2-Mar,Mill Creek,Randolph,Outdoor,F,9 months,DSH,grey/white,3,negative,negative,not tested,not tested,Cestoda,Negative,yes
+60,N,6-Mar,Montrose,Randolph,Outdoor,F,6 months,DMH,black/white,3,negative,positive,not tested,not tested,negative,Ectoparasite,yes
+61,N,6-Mar,Montrose,Randolph,Outdoor,F,6 months,DSH,black/white,3,negative,positive,not tested,not tested,negative,Ectoparasite,yes
+62,N,6-Mar,Montrose,Randolph,Outdoor,M,6 months,DSH,black,3,negative,positive,not tested,not tested,Nematoda,Ectoparasite,yes
+63,E,8-Mar,Belington,Barbour,Indoor,M,adult,DSH,black,1,N/A,N/A,not tested,negative,negative,Negative,no
+64,G,11-Mar,Belington,Barbour,Outdoor,F,senior,DSH,snowshoe,1,negative,negative,not tested,positive,negative,Ectoparasite,yes
+65,Rm 1 - Wall,28-Feb,Belington,Barbour,Outdoor,M,young adult,DMH,black,1,negative,positive,not tested,not tested,negative,Ectoparasite,yes
+66,O,1-Mar,Phillipi,Barbour,Hoarding,M,senior,DSH,brown tabby,1,negative,positive,not tested,negative,Cestoda,Virus,yes
+67,Rm 1 - Window,1-Mar,Phillipi,Barbour,Hoarding,M,senior,DSH,tabby/white,1,negative,positive,not tested,negative,Cestoda,Ectoparasite,yes
+68,F,1-Mar,Phillipi,Barbour,Hoarding,F,adult,DSH,torbico,1,N/A,N/A,N/A,N/A,Nematoda,N/A,yes
+69,1,1-Mar,Phillipi,Barbour,Hoarding,M,adult,DSH,orange,1,N/A,N/A,N/A,N/A,Cestoda,Virus,yes
+70,B,20-Mar,Belington,Barbour,Indoor/outdoor,M,adult,DLH,grey,1,negative,negative,not tested,negative,negative,Virus,yes
+71,E,25-Mar,Phillipi,Barbour,Outdoor,F,8 months,DSH,tabby,1,negative,negative,not tested,not tested,Nematoda,Negative,yes
+72,G,25-Mar,Phillipi,Barbour,Outdoor,M,8 months,DSH,grey tabby,1,negative,positive,not tested,negative,Nematoda,Ectoparasite,yes
+73,A,25-Mar,Phillipi,Barbour,Outdoor,F,8 months,DSH,torbie,1,negative,negative,not tested,positive,Nematoda,Ectoparasite,yes
+74,E,27-Mar,Belington,Barbour,Unknown,F,young adult,DSH,siamese,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+75,B,28-Mar,Phillipi,Barbour,Outdoor,F,adult,DLH,black,1,negative,negative,not tested,N/A,N/A,Negative,yes
+76,J,28-Mar,Phillipi,Barbour,Outdoor,M,adult,DLH,tabby,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+77,O,28-Mar,Phillipi,Barbour,Outdoor,F,adult,DLH,black,1,N/A,N/A,N/A,N/A,negative,Negative,no
+78,2,28-Mar,Phillipi,Barbour,Outdoor,N/A,adult,DLH,tabby,1,N/A,N/A,N/A,N/A,negative,Negative,no
+79,Rm 2 - White Top,28-Mar,Phillipi,Barbour,Outdoor,N/A,adult,DLH,black/white,1,N/A,N/A,N/A,N/A,Nematoda,Negative,yes
+80,Rm 2 - White Bottom,28-Mar,Phillipi,Barbour,Outdoor,F,adult,DSH,tabby,1,N/A,N/A,N/A,N/A,Nematoda,Negative,yes
+81,Rm 2 - Black,31-Mar,Phillipi,Barbour,Outdoor,N/A,adult,DSH,buff/white,1,negative,negative,not tested,,Cestoda,Negative,yes
+82,H,4-Apr,Phillipi,Barbour,Outdoor,M,senior,DMH,tabby,1,negative,negative,not tested,positive,negative,Ectoparasite,yes
+83,Kitchen - Closet bottom,5-Apr,Phillipi,Barbour,Outdoor,F,young adult,DSH,tortioseshell,1,negative,negative,not tested,positive,negative,Negative,yes
+84,11,4-Apr,Phillipi,Barbour,Outdoor,M,adult,DSH,tabby/white,1,negative,negative,not tested,negative,negative,Negative,no
+85,G,8-Apr,Belington,Barbour,Indoor,M,adult,DLH,snowshoe,1,N/A,N/A,N/A,N/A,negative,Negative,N/A
+86,K,8-Apr,Seneca Rocks,Pendleton,Outdoor,F,15 months,DSH,tabby,1,negative,negative,not tested,negative,negative,Negative,no
+87,8,8-Apr,Seneca Rocks,Pendleton,Outdoor,M,15 months,DSH,black,1,negative,negative,negative,negative,N/A,Negative,no
+88,10,12-Apr,Phillipi,Barbour,Outdoor,F,adult,DLH,brown,1,negative,negative,not tested,negative,N/A,Negative,no
+89,5,6-Apr,Belington,Barbour,Outdoor,M,adult,DSH,grey/white,1,negative,negative,not tested,not tested,Nematoda,Negative,yes
+90,Rm 4,4-Apr,Belington,Barbour,Outdoor,M,young adult,DSH,lynx point/siamese,1,negative,negative,not tested,negative,negative,Negative,yes
+91,Rm 4,4-Apr,Belington,Barbour,Outdoor,F,adult,DLH,white/grey,1,negative,negative,not tested,negative,Nematoda,Negative,yes
+92,Rm 4,27-Mar,Junior,Barbour,Outdoor,F,1 year,DSH,blue,1,negative,negative,not tested,negative,negative,Negative,no
+93,Kitchen - White,10-Apr,Clemtown,Barbour,Outdoor,F,kitten,DSH,white/grey,4,negative,positive,not tested,not tested,negative,Ectoparasite,yes
+94,Kitchen - White,10-Apr,Clemtown,Barbour,Outdoor,M,kitten,DSH,buff/white,4,negative,positive,not tested,not tested,negative,Ectoparasite,yes
+95,Kitchen - White,10-Apr,Clemtown,Barbour,Outdoor,F,kitten,DSH,white/buff,4,negative,positive,not tested,not tested,negative,Ectoparasite,yes
+96,Kitchen - White,10-Apr,Clemtown,,Outdoor,M,kitten,DSH,grey/white,4,negative,positive,not tested,not tested,negative,Ectoparasite,yes
+98,Rm 4,,Belington,Barbour,Outdoor,F,adult,DMH,white,1,negative,negative,not tested,negative,Nematoda,Wound,yes
+99,Kitchen - Closet bottom,20-May,Weston,Lewis,Outdoor,M,8 weeks,DSH,orange,1,positive,negative,not tested,not tested,negative,Ectoparasite,yes
+100,1,28-May,Mudgut,Barbour,Outdoor,F,1 year,DSH,grey tabby,1,negative,negative,not tested,not tested,negative,Negative,no
+101,A,5-May,Belington,Barbour,Indoor,M,6 years,DSH,siamese,1,negative,positive,not tested,not tested,Nematoda,Ectoparasite,yes
+102,C,14-May,Moatsville,Barbour,Outdoor,F,adult,DSH,black/white,5,N/A,N/A,not tested,not tested,N/A,Negative,no
+103,D,24-Apr,Mudgut,Barbour,outdoor,F,1 year,DSH,dilute calico,1,negative,negative,not tested,not tested,Nematoda,Negative,yes
+104,E,5-May,Belington,Barbour,indoor,M,adult,DMH,flame himalyan,1,negative,positive,not tested,not tested,Nematoda,Ectoparasite,yes
+105,G,2-May,Moatsville,Barbour,outdoor,F,8 years,DMH,calico,1,negative,negative,not tested,not tested,N/A,Negative,no
+106,I,14-May,Moatsville,Barbour,outdoor,F,adult,DSH,grey tabby,3,negative,negative,not tested,not tested,negative,Negative,no
+107,J,12-May,N/A,Unknown,outdoor,F,adult,DSH,black,1,negative,negative,not tested,not tested,N/A,Negative,no
+108,L,10-Apr,27 Morley Ln,Barbour,outdoor,M,adult,DSH,grey tabby,1,negative,negative,not tested,not tested,negative,Negative,no
+109,N,9-May,Northshore,Out of State,indoor,M,adult,DSH,tabby/white,1,negative,negative,not tested,not tested,negative,Negative,no
+110,O,5-May,Belington,Barbour,indoor,M,5 years,DSH,seal point,1,negative,positive,not tested,not tested,N/A,Ectoparasite,yes
+111,P,22-May,Belington,Barbour,indoor,M,6 years,DSH,siamese,1,negative,positive,not tested,not tested,N/A,Ectoparasite,yes
+112,Kitchen- Closet top,22-May,"Brownston/Flemington, WV",Taylor,outdoor,M,6 weeks,DSH,tabby,3,negative,negative,not tested,not tested,Protozoa,Negative,yes
+113,Kitchen- Closet top,22-May,"Brownston/Flemington, WV",Taylor,outdoor,M,6 weeks,DSH,tabby,3,negative,negative,not tested,not tested,Protozoa,Negative,yes
+114,Kitchen- Closet top,22-May,"Brownston/Flemington, WV",Taylor,Outdoor,M,6 weeks,DSH,tabby,3,negative,negative,not tested,not tested,Protozoa,Negative,yes
+115,Kitchen - Closet bottom,1-May,N/A,Unknown,Outdoor,N/A,6 weeks,DSH,orange/white tabby,2,negative,negative,not tested,not tested,N/A,Negative,no
+116,Kitchen - Closet bottom,1-May,N/A,Unknown,Outdoor,N/A,6 weeks,DSH,white,2,negative,negative,not tested,not tested,N/A,Negative,no
+117,A,1-May,Georgetown Rd Belington,Barbour,Outdoor,F,adult,DSH,tabico,4,negative,negative,not tested,not tested,N/A,Negative,no
+118,B,29-May,Nestorville,Barbour,Outdoor,F,adult,DSH,tabby/white,3,negative,positive,not tested,not tested,N/A,Ectoparasite,yes
+119,D,3-Jun,Century,Barbour,Outdoor,M,8 weeks,DLH,orange/white,3,positive,positive,not tested,not tested,Protozoa,Ectoparasite,yes
+120,D,3-Jun,Century,Barbour,Outdoor,M,8 weeks,DLH,orange/white,3,negative,positive,not tested,not tested,Protozoa,Ectoparasite,yes
+121,D,3-Jun,Century,Barbour,Outdoor,F,8 weeks,DLH,orange/white,3,negative,positive,not tested,not tested,Protozoa,Ectoparasite,yes
+122,E,2-Jun,Elkinsside Rd,Randolph,Outdoor,M,6 weeks,DSH,black/white,5,negative,negative,not tested,not tested,Protozoa,Negative,yes
+123,E,2-Jun,Elkinsside Rd,Randolph,Outdoor,M,6 weeks,DSH,black,5,negative,negative,not tested,not tested,Protozoa,Negative,yes
+124,E,2-Jun,Elkinsside Rd,Randolph,Outdoor,M,6 weeks,DMH,black,5,negative,negative,not tested,not tested,Protozoa,Negative,yes
+125,E,2-Jun,Elkinsside Rd,Randolph,Outdoor,F,6 weeks,DSH,dilute calico,5,negative,negative,not tested,not tested,Protozoa,Negative,yes
+126,E,2-Jun,Elkinsside Rd,Randolph,Outdoor,F,6 weeks,DMH,dilute calico,5,negative,negative,not tested,not tested,Protozoa,Negative,yes
+127,G,29-May,"Uniontown, PA",Out of State,Outdoor,F,adult,DSH,black/white,1,negative,negative,not tested,not tested,N/A,Negative,no
+128,J,24-May,Knotsville Rd Thorton,Taylor,Outdoor,F,kitten,DSH,N/A,5,negative,negative,not tested,not tested,N/A,Negative,no
+129,J,24-May,Knotsville Rd Thorton,Taylor,Outdoor,F,kitten,DSH,N/A,5,negative,negative,not tested,not tested,N/A,Negative,no
+130,J,24-May,Knotsville Rd Thorton,Taylor,Outdoor,M,kitten,DSH,N/A,5,negative,negative,not tested,not tested,N/A,Negative,no
+131,J,24-May,Knotsville Rd Thorton,Taylor,Outdoor,M,kitten,DSH,N/A,5,negative,negative,not tested,not tested,N/A,Negative,no
+132,J,24-May,Knotsville Rd Thorton,Taylor,Outdoor,M,kitten,DSH,N/A,5,negative,negative,not tested,not tested,N/A,Negative,no
+133,K,2-Jun,Bridgeport,Harrison,Outdoor,F,6 weeks,DSH,N/A,5,negative,negative,not tested,not tested,N/A,Negative,no
+134,K,2-Jun,Bridgeport,Harrison,Outdoor,F,6 weeks,DSH,N/A,5,negative,negative,not tested,not tested,N/A,Negative,no
+135,K,2-Jun,Bridgeport,Harrison,Outdoor,M,6 weeks,DSH,N/A,5,negative,negative,not tested,not tested,N/A,Negative,no
+136,K,2-Jun,Bridgeport,Harrison,Outdoor,M,6 weeks,DSH,N/A,5,negative,negative,not tested,not tested,N/A,Negative,no
+137,K,2-Jun,Bridgeport,Harrison,Outdoor,M,6 weeks,DSH,N/A,5,negative,negative,not tested,not tested,N/A,Negative,no
+138,M,1-Jun,Moatsville,Barbour,Outdoor,M,1 year,DSH,black,1,negative,negative,not tested,not tested,N/A,Negative,no
+139,P,2-Jun,Phillipi,Barbour,Outdoor,M,8 weeks,DSH,orange,2,negative,negative,not tested,not tested,negative,Negative,no
+140,P,2-Jun,Phillipi,Barbour,Outdoor,F,8 weeks,DMH,tabby/white,2,negative,negative,not tested,not tested,negative,Negative,no
+141,Rm 1 - Window Bottom,1-Jun,Crap Bottom Belington,Barbour,Outdoor,F,8 weeks,DLH,black,3,negative,negative,not tested,not tested,Protozoa,Negative,yes
+142,Rm 1 - Window Bottom,10-Jun,N/A,Unknown,Outdoor,M,8 weeks,DLH,black/white,3,negative,negative,not tested,not tested,Protozoa,Negative,yes
+143,Rm 1 - Window Bottom,7-Jun,Montrose,Barbour,Outdoor,F,8 weeks,DMH,tabby,3,negative,negative,not tested,not tested,Protozoa,Negative,yes
+144,N/A,8-Jun,Hunters Fork Belington,Barbour,Outdoor,F,adult,DSH,white,3,negative,negative,not tested,not tested,N/A,Negative,no
+145,N/A,8-Jun,Belington,Barbour,Outdoor,F,adult,DSH,,5,negative,negative,not tested,not tested,N/A,Negative,no
+146,N/A,3-Jun,Bennet,Lewis,Outdoor,F,adult,DMH,black,1,negative,negative,not tested,not tested,N/A,Negative,no
+147,N/A,8-Jun,Belington,Barbour,Outdoor,M,7 weeks,DSH,orange,3,negative,negative,not tested,not tested,N/A,Negative,no
+148,N/A,8-Jun,Belington,Barbour,Outdoor,M,7 weeks,DSH,orange,3,negative,negative,not tested,not tested,N/A,Negative,no
+149,N/A,8-Jun,Belington,Barbour,Outdoor,F,7 weeks,DSH,black,3,negative,negative,not tested,not tested,N/A,Negative,no
+150,N/A,8-Jun,Beech Ave Phillipi,Barbour,Outdoor,F,adult,DSH,calico,1,negative,negative,not tested,not tested,N/A,Negative,no
